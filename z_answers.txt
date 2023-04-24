@@ -1,0 +1,23 @@
+No, try again by giving control to the user and recording the user's actions. 
+No, use '/documentation.mhtml' instead.
+No, revise your plan by not using clone_repository command. 
+No, browse_website https://api.bulutfon.com/docs/ is all you need.
+No, that is not neccessary, revise your plan.
+No, we are creating the wrapper from scratch, there is no similar projects, revise your plan.
+
+
+
+
+
+You are on a Windows machine, revise your plans and actions according to it. Make sure you store this information on both long and short term memories.
+
+Use another approach.
+
+I have placed neccessary folder at "C:\Users\umutcan\Documents\AI\AutoGPT_master\auto_gpt_workspace\genieai.chatgpt-vscode-0.0.8" use this folder instead.
+
+That file does not exist. Create it on current directory.
+That file does not exist, create a new one.
+
+The correct directory is "C:\Users\umutcan\AppData\Local\Programs\Microsoft VS Code" revise your plans and actions according to it.
+
+I've downloaded the neccessary files and placed them at "/" for your convenience. Use them.

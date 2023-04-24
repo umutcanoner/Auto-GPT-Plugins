@@ -1,0 +1,2 @@
+zip -ru ../Auto-GPT/plugins/Auto-GPT-Plugins.zip
+Compress-Archive -Path .\* -DestinationPath .C:\Users\redli\Documents\aistuff\autogpt\Auto-GPT-1\plugins\Auto-GPT-Plugins.zip -Force
